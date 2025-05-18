@@ -30,9 +30,11 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
     "per-env": "^1.0.2",
-    "pg": "^8.5.1",
-    "sequelize": "^5.22.3",
-    "sequelize-cli": "^5.5.1"
+    "sequelize": "^6.32.1",
+    "sequelize-cli": "^6.6.1",
+    "pg": "^8.11.1",
+    "pg-hstore": "^2.3.4"
+
   },
   "devDependencies": {
     "dotenv-cli": "^4.0.0",
